@@ -188,6 +188,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+```
+```
 <details> <summary>Support & Community </summary><p align="center">Need help? Create an <a href="https://github.com/MASTERPEACE254ELITE/black-widow/issues">issue</a> or <a href="https://wa.me/263780934873?text=Hello+Masterpeace+King,+I+need+assistance+with+BLACK-WIDOW+v4+Bot">Contact Us on WhatsApp</a>.</p>
 📜 Table of Contents
 About Black-widow
