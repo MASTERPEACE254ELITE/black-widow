@@ -6,7 +6,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 Black-widow BY Masterpeace 🩵
 
-text
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
