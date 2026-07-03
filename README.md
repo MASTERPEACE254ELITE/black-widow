@@ -1,186 +1,129 @@
-<div align="center">
+::: {align="center"}
+# 🕷️ BLACK WIDOW V4
 
-# 🕷️ BLACK WIDOW
+`<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=BLACK+WIDOW+WHATSAPP+BOT;FAST+•+SECURE+•+POWERFUL;MULTI+DEVICE+BOT;CREATED+BY+MASTERPEACE+ELITE"/>`{=html}
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=BLACK+WIDOW+WHATSAPP+BOT;FAST+•+SECURE+•+POWERFUL;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MASTERPEACE+ELITE" />
+`<img src="https://files.catbox.moe/5wa8bd.png" width="300"/>`{=html}
 
-<br>
+![Stars](https://img.shields.io/github/stars/MASTERPEACE254ELITE/black-widow?style=for-the-badge&color=red)
+![Forks](https://img.shields.io/github/forks/MASTERPEACE254ELITE/black-widow?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/MASTERPEACE254ELITE/black-widow?style=for-the-badge)
+![License](https://img.shields.io/github/license/MASTERPEACE254ELITE/black-widow?style=for-the-badge)
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=red"/>
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=black"/>
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge"/>
-<img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge"/>
-<img src="https://img.shields.io/github/watchers/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=red"/>
+[![WhatsApp
+Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D)
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## 🚀 Pair Your Bot
 
-# 🕷️ BLACK WIDOW
+-   **Pair Code:** https://BLACK-WIDOW-pair-j0v0.onrender.com/pair
+-   **Session Generator:** https://BLACK-WIDOW-pair-j0v0.onrender.com
 
-BLACK WIDOW is a modern Multi-Device WhatsApp Bot built for speed, stability and performance.
+> No SESSION_ID? Set your number as `BOT_NUMBER` in `.env` or
+> `config.js`, deploy, and the pairing code will appear in the terminal.
 
-It includes AI features, downloads, moderation, automation, stickers, media tools and much more.
-
----
+------------------------------------------------------------------------
 
 # ✨ Features
 
-- 🤖 AI Commands
-- 🎵 Music Downloader
-- 🎥 Video Downloader
-- 📥 Social Media Downloader
-- 😂 Fun Commands
-- 👥 Group Management
-- 🔒 Anti-Link
-- ⚡ Anti-Spam
-- 🛡️ Anti-Delete
-- 🖼️ Sticker Maker
-- 🎨 Image Tools
-- 🔊 Audio Effects
-- 📂 Media Converter
-- 🌍 Multi Device Support
-- 🔥 Fast & Lightweight
+-   🤖 AI Commands
+-   🎵 Music & Video Downloaders
+-   👥 Group Management
+-   🔒 Anti-Link & Anti-Spam
+-   🖼️ Sticker Creator
+-   🎨 AI Image Generation
+-   📥 Social Media Downloaders
+-   ⚡ Fast Multi-Device Support
 
----
+------------------------------------------------------------------------
 
 # 🚀 Deploy
 
-### Railway
+  ----------------------------------------------------------------------------------------------------------------------------------
+  Platform                            Link
+  ----------------------------------- ----------------------------------------------------------------------------------------------
+  Heroku                              https://dashboard.heroku.com/new?template=https://github.com/MASTERPEACE254ELITE/black-widow
 
-[![Deploy on Railway](https://railway.app/button.svg)](YOUR_RAILWAY_LINK)
+  Railway                             https://railway.app/login
 
----
+  Render                              https://dashboard.render.com
 
-### Render
+  Koyeb                               https://github.com/MASTERPEACE254ELITE/black-widow
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](YOUR_RENDER_LINK)
+  Replit                              https://repl.it/github/MASTERPEACE254ELITE/Black-widow
 
----
+  Toystack                            https://toystack.ai
 
-### Koyeb
+  Panel                               https://bot-hosting.net/?aff=1097457675723341836
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](YOUR_KOYEB_LINK)
+  TalkDrove                           https://host.talkdrove.com/auth/signup?ref=542313CE
+  ----------------------------------------------------------------------------------------------------------------------------------
 
----
+------------------------------------------------------------------------
 
-### Replit
+# 💻 CMD / VPS
 
-Open this repository on Replit and deploy.
-
----
-
-# 📱 Pair Code
-
-Generate your WhatsApp Session here.
-
-## 🔗 Pair Website
-
-YOUR_PAIR_LINK
-
----
-
-# 💻 Installation
-
-## Clone Repository
-
-```bash
-git clone YOUR_GITHUB_REPO
-```
-
-```bash
-cd BLACK-WIDOW
-```
-
-Install dependencies
-
-```bash
+``` bash
+git clone https://github.com/MASTERPEACE254ELITE/black-widow.git
+cd black-widow
 npm install
-```
-
-Start bot
-
-```bash
 npm start
 ```
 
----
+------------------------------------------------------------------------
 
-# ⚙️ Configuration
+# 📱 Termux / Ubuntu
 
-Create a `.env`
-
-```env
-SESSION_ID=
-PREFIX=.
-OWNER_NUMBER=2547XXXXXXXX
-BOT_NAME=BLACK WIDOW
+``` bash
+apt update && apt upgrade -y
+pkg install proot-distro
+proot-distro install ubuntu
+proot-distro login ubuntu
+apt update && apt upgrade -y
+apt install -y webp git ffmpeg curl imagemagick
+curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+apt install -y nodejs
+git clone https://github.com/MASTERPEACE254ELITE/black-widow.git
+cd black-widow
+npm install
+npm start
 ```
 
----
-
-# 📂 Project Structure
-
-```
-BLACK-WIDOW/
-│
-├── plugins/
-├── lib/
-├── src/
-├── config.js
-├── package.json
-├── index.js
-└── README.md
-```
-
----
-
-# ❤️ Support
-
-If you enjoy BLACK WIDOW,
-
-⭐ Star the repository
-
-🍴 Fork it
-
-🐞 Report bugs
-
-💡 Suggest new features
-
----
+------------------------------------------------------------------------
 
 # 📞 Contact
 
-### 👑 Developer
+-   GitHub: https://github.com/MASTERPEACE254ELITE
+-   Telegram: https://t.me/Masterpeaceking2
+-   WhatsApp: https://wa.me/message/BRDPXBM77ARZJ1
+-   YouTube: https://youtube.com/@Masterpeacetech2
+-   WhatsApp Channel:
+    https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D
 
-MASTERPEACE ELITE
+------------------------------------------------------------------------
 
-GitHub
+# ❤️ Support
 
-https://github.com/YOUR_USERNAME
+If you enjoy **BLACK WIDOW**, please ⭐ Star the repository and Fork it.
 
-WhatsApp
+------------------------------------------------------------------------
 
-YOUR_WHATSAPP_NUMBER
+# ⚠️ Disclaimer
 
-Email
+BLACK WIDOW is not affiliated with WhatsApp Inc. Use responsibly.
 
-YOUR_EMAIL
-
----
+------------------------------------------------------------------------
 
 # 📜 License
 
-This project is licensed under the MIT License.
+Apache-2.0
 
----
+::: {align="center"}
+## 👑 Developed by MASTERPEACE ELITE
 
-<div align="center">
+`<img src="https://github.com/MASTERPEACE254ELITE.png" width="180"/>`{=html}
 
-## 🕷️ BLACK WIDOW
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=THANK+YOU+FOR+VISITING;DON'T+FORGET+TO+STAR;MASTERPEACE+ELITE" />
-
-Made with ❤️ by **MASTERPEACE ELITE**
-
-</div>
+**Thank you for using BLACK WIDOW V4 ❤️**
+:::
