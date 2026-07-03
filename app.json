@@ -1,0 +1,119 @@
+{
+  "name": "Black-widow",
+  "description": " Whatsapp Ai",
+  "logo": "https://files.catbox.moe/5wa8bd.png",
+  "success_url": "https://github.com/MASTERPEACE254ELITE/black-widow",
+  "keywords": [
+    "whatsapp Ai", "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
+    "termux", "superbot", "multi-device", "md", "official", "javascript", "tohid-ai-bot"
+  ],
+  "repository": "https://github.com/MASTERPEACE254ELITE/black-widow",
+  "stack": "container",
+  "env": {
+    "OWNERS": {
+      "description": "owner number",
+      "required": true,
+      "value": ""
+    },
+    "BOTNAME": {
+      "description": "Give your BOT a name",
+      "required": true,
+      "value": "Black-widow"
+    },
+    "DATABASE_URL": {
+      "description": "your mongodb database url",
+      "required": false,
+      "value": ""
+    },
+    "SESSION_ID": {
+      "description": "your session id",
+      "required": true,
+      "value": ""
+    },
+    "MODE": {
+      "description": "mode public or private",
+      "required": true,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "required": false,
+      "value": ""
+    },
+     "HKEY": {
+      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "required": true,
+      "value": ""
+    },
+     "HAPP": {
+      "description": "Put the Heroku app name, same as above entered",
+      "required": true,
+      "value": ""
+    },
+    "statusview": {
+      "description": "make it true if you want bot to view status",
+      "required": false,
+      "value": ""
+    },
+    "antidelete": {
+      "description": "bot will forward deleted messages if you make it true",
+      "required": false,
+      "value": "false"
+    },
+    "HOBBIES": {
+      "description": "owners hobby for intro card",
+      "required": false,
+      "value": "CODING"
+    },
+    "LANGUAGE": {
+      "description": "owners native language for intro",
+      "required": false,
+      "value": "ENGLISH"
+    },
+    "OWNER_SKILLS": {
+      "description": "skills for intro",
+      "required": false,
+      "value": "JAVASCRIPT"
+    },
+    "OWNER_STATUS": {
+      "description": "current status for intro",
+      "required": false,
+      "value": "DEVELOPER"
+    },
+    "TIME_ZONE": {
+      "description": "your time zone",
+      "required": true,
+      "value": "Africa/Nairobi"
+    },
+    "OWNER_NAME": {
+      "description": "your owner Name",
+      "required": false,
+      "value": ""
+    },
+     "REMOVEBG_KEY": {
+      "description": "your Remove background api key",
+      "required": false,
+      "value": ""
+    }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
