@@ -17,7 +17,7 @@ Black-widow BY Masterpeace 🩵
 ---
 
 <p align="center">
-  <a href="https://github.com/XdKing2"><img title="Developer" src="https://img.shields.io/badge/Author-Masterpeace%20King-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/XdKing2"><img title="Developer" src="https://img.shields.io/badge/Author-Masterpeace%20-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <p align="center">
