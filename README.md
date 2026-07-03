@@ -1,565 +1,119 @@
-#### MULTI DEVICE WHATSAPP BOT Black-widow | STILL MANY HIDDEN COMMANDS
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-> **`Updated To` The Version 4.0.0**
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-Black-widow BY Masterpeace 🩵
-
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<a><img src='https://files.catbox.moe/5wa8bd.png'/></a>
-
----
-
-<p align="center">
-  <a href="https://github.com/MASTERPEACE254ELITE"><img title="Developer" src="https://img.shields.io/badge/Author-Masterpeace%20-FF7604.svg?style=big-square&logo=github" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/MASTERPEACE254ELITE/black-widow/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MASTERPEACE254ELITE/Black-widow?color=blue&style=flat-square"></a>
-<a href="https://github.com/MASTERPEACE254ELITE/black-widow/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MASTERPEACE254ELITE/Black-widow?color=blue&style=flat-square"></a>
-<div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D)
-</div>
-
- <p align="center"><img src="https://profile-counter.glitch.me/{Black-widow}/count.svg" alt="MASTERPEACE254ELITE :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MASTERPEACE254ELITE}/count.svg" /></p>
-
-
-<p align="center">
-<a href="https://github.com/MASTERPEACE254ELITE/black-widow"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkblue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Black-widow&label=VIEWS&style=square&color=blue" />
-</p>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/MASTERPEACE254ELITE/black-widow"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v4.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
---------
-<h1 align="center">EXTERNAL PLUGINS</h1>
-
-> Coming soon...
-
----
-
-<h2 align="center">📌 NOTE</h2>
-
-#### No worries if you don't have a pre-connection or SESSION_ID.  
-Simply set your number as `BOT_NUMBER = '2547437XXXX'` in either `config.js` or `.env` file, then deploy the bot.  
-A pairing code will be displayed in the terminal. Just scan it to connect.
-
----
-
-<details>
-<summary>🎬 Watch the Tutorial</summary>
-
-To quickly set up Black-widow, watch the full tutorial:
-
-[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@Masterpeacetech2)
-
-</details>
-
----
-
-<details>
-<summary>✨ Features</summary>
-
-- **Autoreact**: Bot reacts to all messages with random beautiful emojis.
-- **Stickers**: Tons of custom stickers available.
-- **Downloader**: Download videos, files, or images from various platforms.
-- **Games**: Fun game commands available.
-- **Interactive Polls**: Create "Would You Rather" polls with randomized options.
-- **Audio Editor**: Edit and modify MP3s and voices easily.
-- **Image AI**: Generate images and designs from text prompts using AI models.
-- **Reactions**: Secret group reaction features.
-
-</details>
-
----
-
-## 🚀 Deployment Options
-
-### ⭐ Fork & Star the Repository
-Fork this repo and give it a ⭐ to support Masterpeace!
-
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/MASTERPEACE254ELITE/black-widow/fork)
-
----
-
-### 🔌 Pairing Code / Session Generator
-
-[![Pair Code](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://BLACK-WIDOW-pair-j0v0.onrender.com/pair)
-
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://BLACK-WIDOW-pair-j0v0.onrender.com)
-
----
-
-### 🛠 Step-by-Step Deployment Guide
-
-#### 🟣 Heroku
-- [Sign up](https://signup.heroku.com/)
-- Deploy directly:
-
-[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MASTERPEACE254ELITE/black-widow)
-
----
-
-#### 🔴 Koyeb
-
-[![Deploy on Koyeb](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white)](https://github.com/MASTERPEACE254ELITE/black-widow)
-
----
-
-#### 🟪 Railway
-
-[![Deploy on Railway](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
-
----
-
-#### 🔵 Toystack
-
-[![Deploy on Toystack](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white)](https://toystack.ai)
-
----
-
-#### ⚫ Render
-
-[![Deploy on Render](https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com)
-
----
-
-#### 🟠 Replit
-
-[![Deploy on Replit](https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white)](https://repl.it/github/MASTERPEACE254ELITE/Black-widow)
-
----
-
-#### 🟢 Panel 
-
-[![Deploy on Panel](https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://bot-hosting.net/?aff=1097457675723341836)
-
----
-
-### 🟢 Talkdrove
-
-[![Deploy on Talkdrove](https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://host.talkdrove.com/auth/signup?ref=542313CE)
----
-
-🎥 **Tutorial for Panel Setup**  
-1. Sign up on Discord (via app or web)  
-2. Watch the YouTube setup guide:
-
-[![YouTube Tutorial](https://img.shields.io/badge/-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Masterpeacetech2)
-
----
-
-## ⚙️ DEPLOY_WORKFLOWS
-
-```yaml
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-
-      - name: Install dependencies
-        run: npm install
-```
-```
-<details> <summary>Support & Community </summary><p align="center">Need help? Create an <a href="https://github.com/MASTERPEACE254ELITE/black-widow/issues">issue</a> or <a href="https://wa.me/263780934873?text=Hello+Masterpeace+King,+I+need+assistance+with+BLACK-WIDOW+v4+Bot">Contact Us on WhatsApp</a>.</p>
-📜 Table of Contents
-About Black-widow
-
-Features
-
-Installation
-
-Usage
-
-How to Contribute
-
-Connect with the Developer
-
-</details><details> <summary> 💡 About Black-widow </summary>
-Black-widow is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the Baileys API, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
-
-Key features include:
-
-Autoreact: If You enables, Bot Will Reats With Beautiful Random Emojis On All Messages In All Chats.
-
-Download Media (audio/video) from URLs
-
-Send Motivational Quotes in response to status updates
-
-Automatically Views Status Updates with emojis
-
-Create "Would You Rather" polls with shuffling answers
-
-Customizable Features: Easily tweak settings for different bots!
-
-</details>
-🚀 Installation
-To get started with this project, follow the steps below:
-
-Clone the repository:
-
-bash
-git clone https://github.com/MASTERPEACE254ELITE/black-widow.git
-Navigate to the project directory:
-
-bash
-cd black-widow
-Install dependencies:
-
-bash
+# 🕷️ BLACK WIDOW WhatsApp Bot v4
+
+> A powerful multi-device WhatsApp bot built for automation, moderation,
+> downloads, AI tools, and group management.
+
+## Features
+
+-   Multi-device support
+-   QR & Pair Code login
+-   Group moderation
+-   Auto-replies
+-   AI commands
+-   Media downloader
+-   Sticker tools
+-   Admin utilities
+-   Logging
+-   Plugin-ready architecture
+
+## Table of Contents
+
+1.  Features
+2.  Requirements
+3.  Installation
+4.  Configuration
+5.  Running the Bot
+6.  Deployment
+7.  Commands
+8.  Troubleshooting
+9.  Contributing
+10. License
+
+## Requirements
+
+-   Node.js 20+
+-   Git
+-   npm
+-   Stable internet connection
+
+## Installation
+
+``` bash
+git clone https://github.com/yourusername/BLACK-WIDOW.git
+cd BLACK-WIDOW
 npm install
-Configure the bot:
+```
 
-Copy .env.example to .env
+## Configuration
 
-Fill in your credentials
+Create a `.env` file:
 
-Start the bot:
-
-bash
-npm start
-<details> <summary> 💥 Features</summary>
-🌅 .botmenu - The Bot's secret control panel.
-
-🖲️ .ownermenu - Yep, that's for you, Boss!
-
-🛫 .groupmenu - Groups to unite people.
-
-🗂️ .dlmenu - 'DL' stands for 'Delicious Loot'.
-
-🎭 .funmenu - The bot's party hat. Games, jokes and instant ROFLs.
-
-💵 .economy - Your personal vault of virtual economy.
-
-🎮 .gamemenu - Enter the gaming arena.
-
-🫐 .stickermenu - A rainbow of stickers.
-
-🪙 .toolsmenu - Your handy-dandy toolkit.
-
-🧲 .logomenu - Create a logo that screams You.
-
-💟 .nsfwmenu - The After Dark menu.
-
-🌀 .aimenu - Your Personal Artificial Intelligence Copilots.
-
-🎧 .aeditor - Tune The Mp3/Audio As You Wish.
-
-🎉 .animemenu - Animated Images,Stickers and Videos.
-
-🍒 .reactions - Anime reactions menu for group.
-
-🪁 .infoanime - Full Information About Animes Like imdb.
-
-💡 .imagen - Create Images and designs based on your thoughts/prompts.
-
-🃏 .randompic - Random Images you might like and love.
-
-🎥 .randomvid - Random Videos you might like and love.
-
-🖍️ .fancy - Fancy text generator Menu.
-
-🖌️ .fancy2 - Will Create Images With Fancy Text.
-
-🛠 Usage
-Once the installation is complete and the bot is running, you can use the BLACK-WIDOW v4 in your WhatsApp group or chat. Below are some key features and how to interact with them:
-
-1. A Large Toolkit
-Your Personal Toolkit For Various Things To Do Easily.
-
-2. Auto-Views Status Updates
-The bot will views status automatically if the feature is enabled.
-
-3. Music Downloader
-Enter a Link After Command For Downloading Media From Various Platforms e.g Instagram link whether its a post image , video or story.
-
-Example: .insta <url_link>
-
-4. Imagen Ai
-Many Image Generator AI Models Will Generates Images And Designs Based On Your Prompts/text.
-
-5. Group Customization
-You Can Customize All The Group Settings/Events Using Just Commands.
-
-6. Tagging the Owner
-Whenever the bot owner is tagged in a group, the bot will respond and react accordingly.
-
-7. Customization
-You can enable or disable certain features like chatbot, antilink etc., through the bot's configuration file.
-
-8. Autoreact:
-If You enables, Bot Will Reats With Beautiful Random Emojis On All Messages In All Chats.
-
-For more information on configuring and customizing the bot, refer to the configuration guide.
-
-🛠️ Usage
-Once you've set up the bot, you can begin interacting with it on WhatsApp:
-
-Stickers: You Can Get Sticker ,Make Custom Stikers or Generate Stickers From Image Including Search Gif.
-Media Downloader: Send a media link (e.g., Facebook,Tiktok or Pinterest) and bot will downloads it for you.
-Motivational Quotes: Enable status reaction mode to have the bot reply with a quote to every status you view.
-Create Polls: Start a "Would You Rather" poll by typing wyr followed by two options.
-
-🤝 How to Contribute
-We welcome contributions to Black-widow Bot! Here's how you can get involved:
-
-🛠️ Contributing
-Fork the repository.
-
-Create a new branch for your feature or fix.
-
-Commit your changes with a clear and concise message.
-
-Push your branch to your forked repository.
-
-Open a pull request with a detailed description of your changes.
-
-🧑‍💻 Connect with the Developer
-<p align="center"> <a href="https://github.com/MASTERPEACE254ELITE"> <img src="https://img.shields.io/badge/GitHub-MASTERPEACE254ELITE-blue?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://t.me/Masterpeaceking2"> <img src="https://img.shields.io/badge/Telegram-@Masterpeaceking2-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"> </a> <a href="https://wa.me/message/BRDPXBM77ARZJ1"> <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> <a href="https://youtube.com/@Masterpeacetech2"> <img src="https://img.shields.io/badge/YouTube-@Masterpeacetech2-000000?style=for-the-badge&logo=youtube&logoColor=white"> </a> </p>
-📄 License
-This project is licensed under the Apache-2.0 License. See the LICENSE file for more details.
-
-</details>
-⚠️ Disclaimer
-BLACK-WIDOW v4 Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Mr Masterpeace is not responsible for any bans or restrictions that may occur.
-
-<p align="center">© Masterpeace 2025</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<p align="center">
-<p align="center"> <details> <summary>7. DEPLOY IN TERMUX/UBUNTU</summary>
-text
-apt update && apt upgrade -y
-text
-pkg install proot-distro
-text
-proot-distro install ubuntu
-text
-proot-distro login ubuntu
-text
-apt update && apt upgrade -y
-text
-apt install -y webp git ffmpeg curl imagemagick
-text
-apt -y remove nodejs
-curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
-text
-apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
-text
-git clone https://github.com/<your gitHub Username>/Black-widow
-cd Black-widow
-text
-npm install && npm start
-For Fedora Users
-text
-pkg update && pkg upgrade -y
-text
-pkg install proot-distro
-text
-proot-distro install fedora
-text
-proot-distro login fedora
-text
-dnf update -y
-text
-sudo dnf install -y https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
-sudo dnf install -y https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
-text
-sudo dnf install -y libwebp git ffmpeg curl ImageMagick
-text
-curl -fsSL https://rpm.nodesource.com/setup_20.x | sudo bash -
-sudo dnf install -y nodejs
-text
-exit
-text
-proot-distro login fedora
-text
-git clone https://github.com/<your gitHub Username>/Black-widow
-cdTBlack-widow
-text
-npm install
-text
-npm start
-</details> <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-Star ⭐ the repo if you like Black-widow.
-
-Main Developer
-<a href="https://github.com/MASTERPEACE254ELITE"><img src="https://github.com/MASTERPEACE254ELITE.png" width="250" height="250" alt="MASTERPEACE254ELITE"/></a>
-
-BLACK-WIDOW V4 - By Masterpeace
-
-<h2 align="center"> NOTICE </h2>
-Not For Sale
-
-If A plugin's code is obfuscated , You don't have permission to edit it in any form
-
-Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
-
-Have A Good Day
-
-<p align="center">
-https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png
-
-text
-
----
-
-## 📁 ADDITIONAL FILES TO CREATE
-
-### `.env.example`
-```env
-# Required Environment Variables
+``` env
 SESSION_ID=
-BOT_NUMBER=2547XXXXXXXX
-OWNER_NUMBER=2547XXXXXXXX
-
-# Optional Settings
 PREFIX=.
-BOT_NAME=Black-Widow
-AUTO_REACT=true
-AUTO_READ_STATUS=true
-AUTO_RECORDING=false
-ANTI_LINK=true
-ANTI_SPAM=true
-WELCOME_MESSAGE=true
-LANGUAGE=en
+OWNER_NUMBER=2547XXXXXXXX
+```
 
-# API Keys (Optional)
-OPENAI_API_KEY=
-GOOGLE_API_KEY=
-config.js
-javascript
-module.exports = {
-  // Bot Settings
-  BOT_NAME: 'Black-Widow',
-  PREFIX: '.',
-  MODE: 'public',
-  
-  // Numbers
-  BOT_NUMBER: '2547XXXXXXXX',
-  OWNER_NUMBER: ['2547XXXXXXXX'],
-  
-  // Features
-  AUTO_REACT: true,
-  AUTO_READ_STATUS: true,
-  AUTO_RECORDING: false,
-  ANTI_LINK: true,
-  ANTI_SPAM: true,
-  WELCOME_MESSAGE: true,
-  
-  // API Keys
-  OPENAI_API_KEY: '',
-  GOOGLE_API_KEY: '',
-  
-  // Database
-  DATABASE_URL: '',
-  
-  // API Keys for Downloaders
-  YOUTUBE_API_KEY: '',
-  INSTAGRAM_API_KEY: '',
-};
-package.json
-json
-{
-  "name": "black-widow",
-  "version": "4.0.0",
-  "description": "Multi-Device WhatsApp Bot with many features",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "keywords": [
-    "whatsapp-bot",
-    "baileys",
-    "multi-device",
-    "black-widow"
-  ],
-  "author": "Masterpeace",
-  "license": "Apache-2.0",
-  "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.9",
-    "axios": "^1.6.0",
-    "ffmpeg": "^0.0.4",
-    "fluent-ffmpeg": "^2.1.2",
-    "node-fetch": "^2.7.0",
-    "qrcode-terminal": "^0.12.0",
-    "youtube-dl-exec": "^2.3.9"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  }
-}
-.gitignore
-gitignore
-# Node modules
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+## Run
 
-# Environment variables
-.env
-.env.local
-.env.*.local
+``` bash
+npm start
+```
 
-# Session files
-session/
-*.session.json
-*.creds.json
+Development:
 
-# System files
-.DS_Store
-Thumbs.db
+``` bash
+npm run dev
+```
 
-# Logs
-logs/
-*.log
+## Deployment
 
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
+### Railway
 
-# Build files
-dist/
-build/
+Create a Railway project, connect your repository, configure environment
+variables, and deploy.
 
-# Temporary files
-tmp/
-temp/
-*.tmp
+### Render
 
-# Coverage files
-coverage/
-.nyc_output/
+Create a Web Service, set the start command to:
+
+``` bash
+npm start
+```
+
+### VPS
+
+``` bash
+npm install
+npm start
+```
+
+## Commands
+
+  Category   Examples
+  ---------- ----------------------
+  General    ping, menu, alive
+  Group      kick, add, tagall
+  Download   play, ytmp3, tiktok
+  AI         ai, imagine
+  Utility    sticker, qr, shorten
+
+## Troubleshooting
+
+-   Ensure Node.js version is supported.
+-   Run `npm install` after pulling updates.
+-   Verify environment variables are set correctly.
+-   Check logs for runtime errors.
+
+## Contributing
+
+Fork the repository, create a feature branch, commit your changes, and
+submit a pull request.
+
+## Credits
+
+Developed by **MASTERPEACE ELITE**.
+
+## License
+
+MIT License.
