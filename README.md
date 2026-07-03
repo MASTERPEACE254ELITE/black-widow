@@ -22,7 +22,7 @@ Black-widow BY Masterpeace 🩵
 <a href="https://github.com/MASTERPEACE254ELITE/black-widow/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MASTERPEACE254ELITE/Black-widow?color=blue&style=flat-square"></a>
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazeyYx35fLxhB5TfC3D)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{Black-widow}/count.svg" alt="MASTERPEACE254ELITE :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MASTERPEACE254ELITE}/count.svg" /></p>
