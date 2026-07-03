@@ -12,7 +12,7 @@ Black-widow BY Masterpeace 🩵
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a><img src='https://files.catbox.moe/nrdkj1.jpg'/></a>
+<a><img src='https://files.catbox.moe/5wa8bd.png'/></a>
 
 ---
 
