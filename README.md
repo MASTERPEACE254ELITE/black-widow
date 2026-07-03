@@ -52,7 +52,7 @@ Black-widow BY Masterpeace 🩵
 <h2 align="center">📌 NOTE</h2>
 
 #### No worries if you don't have a pre-connection or SESSION_ID.  
-Simply set your number as `BOT_NUMBER = '26379099XXX'` in either `config.js` or `.env` file, then deploy the bot.  
+Simply set your number as `BOT_NUMBER = '2547437XXXX'` in either `config.js` or `.env` file, then deploy the bot.  
 A pairing code will be displayed in the terminal. Just scan it to connect.
 
 ---
