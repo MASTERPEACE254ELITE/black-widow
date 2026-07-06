@@ -1,4 +1,4 @@
-# Hotspot Console — MikroTik Hotspot Billing Platform
+[# Hotspot Console — MikroTik Hotspot Billing Platform
 
 A multi-tenant SaaS platform for MikroTik hotspot resellers ("sellers") to manage their routers,
 issue WiFi vouchers, and get paid, while you (the platform owner) bill sellers a recurring
@@ -120,3 +120,4 @@ than crashing the app.
 - Add SMS notifications (e.g. via Africa's Talking) for low-data/low-time warnings.
 - Build the actual captive portal login page (a simple branded HTML page served by RouterOS
   itself, customized per seller using `brandLogoUrl`/`brandColor` from the Seller model).
+](http://localhost:8080)
